@@ -1,3 +1,10 @@
+## app [2.6.1](https://github.com/ReVanced/revanced-manager/compare/v2.6.0...v2.6.1) (2026-05-11)
+
+
+### Bug Fixes
+
+* **MainActivity:** Prevent empty locale crash ([#2857](https://github.com/ReVanced/revanced-manager/issues/2857)) ([#3337](https://github.com/ReVanced/revanced-manager/issues/3337)) ([cd8a19e](https://github.com/ReVanced/revanced-manager/commit/cd8a19ebde4bbd70fd14eea6cdc36cbb562e8aa1))
+
 # app [2.6.0](https://github.com/ReVanced/revanced-manager/compare/v2.5.1...v2.6.0) (2026-04-26)
 
 
